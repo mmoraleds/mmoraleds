@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator]((https://github.com/mmoraleds/mmoraleds/assets/127109541/26e8fc10-bb0e-45e4-832a-094ca951517f)
+![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/26e8fc10-bb0e-45e4-832a-094ca951517f)
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm Angela Moraleda, an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.

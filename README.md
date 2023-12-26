@@ -30,6 +30,13 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmoraleds&label=Profile%20views&color=0e75b6&style=flat" alt="mmoraleds" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmoraleds" alt="mmoraleds" /></a> </p>
+
+
+
+
 
 
 

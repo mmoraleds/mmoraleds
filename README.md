@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/26e8fc10-bb0e-45e4-832a-094ca951517f)
 
-**`ICT STUDENT (HTML/JAVA/CSS)`**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmoraleds) **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm Angela Moraleda, an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
@@ -27,9 +27,7 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmoraleds)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds)](https://github.com/anuraghazra/github-readme-stats)
 

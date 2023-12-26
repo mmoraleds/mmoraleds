@@ -1,19 +1,33 @@
 # 🏄‍♂️ Forrest Knight
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`ICT STUDENT (HTML/JAVA/CSS)`**
+👋 Hello World! I'm [Your Name], an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+🚀 Skills:
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+HTML & CSS: I excel in crafting visually appealing and responsive web pages, ensuring a seamless user experience.
+C++: My proficiency in C++ allows me to develop robust and efficient solutions, demonstrating my commitment to writing clean and optimized code.
+💻 Projects:
+
+[Project Name 1]: Brief description showcasing the purpose and technologies used.
+[Project Name 2]: Highlight another project, emphasizing its significance and your role.
+🌟 Experience:
+
+I have successfully completed [mention relevant coursework or any notable achievements] during my time as an ICT student.
+My dedication to excellence is evident in my ability to consistently deliver high-quality projects.
+🔧 Tools:
+
+I am familiar with [mention any additional tools, frameworks, or technologies you're proficient in], enhancing my ability to tackle diverse challenges.
+📚 Continuous Learning:
+
+As a lifelong learner, I am always exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
+🤝 Let's Connect:
+
+I'm open to collaboration and eager to connect with fellow developers and tech enthusiasts. Feel free to reach out for discussions, projects, or just to share exciting ideas!
+🌐 Portfolio:
+
+[Include a link to your portfolio or any external website showcasing your work]
+Thank you for visiting my GitHub profile. Let's code and create something amazing together! 💻✨
 
 ---
 

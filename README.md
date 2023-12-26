@@ -7,17 +7,12 @@
 
 HTML & CSS: I excel in crafting visually appealing and responsive web pages, ensuring a seamless user experience.
 C++: My proficiency in C++ allows me to develop robust and efficient solutions, demonstrating my commitment to writing clean and optimized code.
-💻 Projects:
 
-[Project Name 1]: Brief description showcasing the purpose and technologies used.
-[Project Name 2]: Highlight another project, emphasizing its significance and your role.
 🌟 Experience:
 
-I have successfully completed [mention relevant coursework or any notable achievements] during my time as an ICT student.
+I have successfully completed projects such as HTML/CSS and C+ Languages during my time as an ICT student.
 My dedication to excellence is evident in my ability to consistently deliver high-quality projects.
-🔧 Tools:
 
-I am familiar with HTML AND CSS, enhancing my ability to tackle diverse challenges.
 📚 Continuous Learning:
 
 As a lifelong learner, I am always exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.

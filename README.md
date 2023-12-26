@@ -2,6 +2,12 @@
 https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 <h1 align="center">Hi 👋, I'm Angela Mychaella Moraleda</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
+- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+
+- 💬 Ask me about **anything about vscode**
+
+- 📫 How to reach me **moraledaangelamychaella**
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 

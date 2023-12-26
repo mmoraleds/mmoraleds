@@ -1,5 +1,6 @@
 # Angela Mychaella Moraleda
 
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm [Your Name], an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
 
@@ -17,7 +18,7 @@ I have successfully completed [mention relevant coursework or any notable achiev
 My dedication to excellence is evident in my ability to consistently deliver high-quality projects.
 🔧 Tools:
 
-I am familiar with [mention any additional tools, frameworks, or technologies you're proficient in], enhancing my ability to tackle diverse challenges.
+I am familiar with HTML AND CSS, enhancing my ability to tackle diverse challenges.
 📚 Continuous Learning:
 
 As a lifelong learner, I am always exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
@@ -38,11 +39,6 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-
 
 
 [website]:

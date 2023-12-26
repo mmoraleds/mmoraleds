@@ -45,3 +45,16 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 [website]:
 [youtube]: 
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

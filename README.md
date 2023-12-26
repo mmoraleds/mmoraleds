@@ -1,6 +1,6 @@
 # Angela Mychaella Moraleda
 
-(https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
+![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
 
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
@@ -43,17 +43,10 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
 
-[website]:
-[youtube]: 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 

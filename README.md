@@ -3,10 +3,7 @@
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm Angela Moraleda, an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
 
-🚀 Skills:
-
-HTML & CSS: I excel in crafting visually appealing and responsive web pages, ensuring a seamless user experience.
-C++: My proficiency in C++ allows me to develop robust and efficient solutions, demonstrating my commitment to writing clean and optimized code.
+- 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
 🌟 Experience:
 

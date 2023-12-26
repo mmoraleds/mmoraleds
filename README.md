@@ -1,7 +1,4 @@
-# Angela Mychaella Moraleda
-
 ![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
-
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm [Your Name], an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
@@ -27,9 +24,7 @@ As a lifelong learner, I am always exploring new technologies and methodologies 
 🤝 Let's Connect:
 
 I'm open to collaboration and eager to connect with fellow developers and tech enthusiasts. Feel free to reach out for discussions, projects, or just to share exciting ideas!
-🌐 Portfolio:
 
-[Include a link to your portfolio or any external website showcasing your work]
 Thank you for visiting my GitHub profile. Let's code and create something amazing together! 💻✨
 
 ---

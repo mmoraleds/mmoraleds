@@ -2,7 +2,6 @@
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm Angela Moraleda, an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmoraleds)      
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 

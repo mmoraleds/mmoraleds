@@ -1,6 +1,7 @@
 # Angela Mychaella Moraleda
 
-[<img src="https://github.com/mmoraleds/mmoraleds/blob/main/github-header-image.png)
+[<img src="![github-header-image](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
+
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm [Your Name], an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.

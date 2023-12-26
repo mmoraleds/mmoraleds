@@ -29,8 +29,6 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mmoraleds)  
 
 

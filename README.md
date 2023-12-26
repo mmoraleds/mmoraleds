@@ -10,6 +10,8 @@
 I have successfully completed projects such as HTML/CSS and C+ Languages during my time as an ICT student.
 My dedication to excellence is evident in my ability to consistently deliver high-quality projects.
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mmoraleds)  
+
 📚 Continuous Learning:
 
 As a lifelong learner, I am always exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
@@ -29,8 +31,6 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mmoraleds)  
 
 
 

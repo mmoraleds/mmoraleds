@@ -1,6 +1,6 @@
 # Angela Mychaella Moraleda
 
-[<img src=[github-header-image](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
+[github-header-image](https://github.com/mmoraleds/mmoraleds/assets/127109541/9c18b7e7-abc1-4035-8b48-e4add740e5b5)
 
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**

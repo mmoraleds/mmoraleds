@@ -29,10 +29,13 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mmoraleds)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmoraleds&label=Profile%20views&color=0e75b6&style=flat" alt="mmoraleds" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmoraleds" alt="mmoraleds" /></a> </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mmoraleds)  
+
+
 
 
 

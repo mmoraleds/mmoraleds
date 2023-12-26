@@ -1,5 +1,4 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/ac5d01f0-6c51-476a-982e-758e7a2a9a20)
-5)
 
 **`ICT STUDENT (HTML/JAVA/CSS)`**
 👋 Hello World! I'm [Your Name], an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.

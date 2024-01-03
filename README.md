@@ -29,7 +29,16 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How Software Engineers SHOULD Write Code](https://www.youtube.com/watch?v=jHEX_lUCtvc)
+[
+  {
+    "provider": "generic",
+    "url": "[https://www.youtube.com/x/](https://www.youtube.com/watch?v=jHEX_lUCtvc)"
+  },
+  {
+    "provider": "youtube",
+    "url": "https://www.youtube.com/user/x"
+  }
+]
 <!-- END YOUTUBE-CARDS -->
 
 ### 📊 Stats

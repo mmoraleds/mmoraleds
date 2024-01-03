@@ -29,16 +29,10 @@ Thank you for visiting my GitHub profile. Let's code and create something amazin
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[
-  {
-    "provider": "generic",
-    "url": "[https://www.youtube.com/x/](https://www.youtube.com/watch?v=jHEX_lUCtvc)"
-  },
-  {
-    "provider": "youtube",
-    "url": "https://www.youtube.com/user/x"
-  }
-]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/codeandcram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeandcram" height="30" width="40" /></a>
+</p>
 <!-- END YOUTUBE-CARDS -->
 
 ### 📊 Stats

@@ -1,49 +1,29 @@
-![I am GitHub Readme Generator's creator](https://github.com/mmoraleds/mmoraleds/assets/127109541/26e8fc10-bb0e-45e4-832a-094ca951517f)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Angela%20Moraleda&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-**`ICT STUDENT (HTML/JAVA/CSS)`**
-👋 Hello World! I'm Angela Moraleda, an enthusiastic ICT student passionate about creating digital experiences. With a solid foundation in HTML and CSS, as well as proficiency in C++, I bring a blend of creativity and technical expertise to my projects.
+# 👩‍💻 Angela Moraleda
 
-- 🌱 I’m currently learning **Python, HTML, CSS**
+### 🎓 BS Computer Science with Specialization in Software Engineering
+### 🚀 Building Solutions, One Line of Code at a Time
 
-🌟 Experience:
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-I have successfully completed projects such as HTML/CSS and C+ Languages during my time as an ICT student.
-My dedication to excellence is evident in my ability to consistently deliver high-quality projects.
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mmoraleds)  
-
-📚 Continuous Learning:
-
-As a lifelong learner, I am always exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
-
-🤝 Let's Connect:
-
-I'm open to collaboration and eager to connect with fellow developers and tech enthusiasts. Feel free to reach out for discussions, projects, or just to share exciting ideas!
-
-Thank you for visiting my GitHub profile. Let's code and create something amazing together! 💻✨
-
----
-
-### 🧰 Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/codeandcram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/watch?v=jHEX_lUCtvc)  
-
-### 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```javascript
+const angela = {
+    education: "BSCSSE - 2nd Year",
+    location: "Philippines 🇵🇭",
+    interests: [
+        "Software Engineering",
+        "Web Development",
+        "Database Systems",
+        "UI/UX Design",
+        "Cybersecurity"
+    ],
+    currentlyLearning: [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Full Stack Development"
+    ],
+    lifeGoal: "Build technology that helps people."
+};

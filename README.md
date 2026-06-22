@@ -42,21 +42,12 @@ mission:
 
 | Attribute | Level |
 |------------|---------|
-| ☕ Coffee Power | ████████░░ 80% |
-| 💻 Coding | ███████░░░ 70% |
-| 🎨 Creativity | █████████░ 90% |
-| 📚 Learning | ██████████ 100% |
-| 😴 Sleep | ██░░░░░░░░ 20% |
+| Coffee Power | ████████░░ 80% |
+| Coding | ███████░░░ 70% |
+| Creativity | █████████░ 90% |
+| Learning | ██████████ 100% |
+| Sleep | ██░░░░░░░░ 20% |
 
----
-
-# 🎒 Current Quest Log
-
-- 🎯 Build Offertunity
-- 🎯 Build Adulting Hub PH
-- 🎯 Learn Full Stack Development
-- 🎯 Improve UI/UX Design
-- 🎯 Create Real-World Software Projects
 
 ---
 
@@ -72,40 +63,6 @@ mission:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎓 Offertunity
-
-```txt
-A centralized scholarship platform
-for Filipino students.
-```
-
-✨ Features
-
-- Scholarship Search
-- Smart Filters
-- Notifications
-- Student Dashboard
-
----
-
-## 🪪 Adulting Hub PH
-
-```txt
-Everything you need
-to become an adult in the Philippines.
-```
-
-✨ Features
-
-- Government Requirements
-- Employment Documents
-- Permit Guides
-- Career Requirements
-
----
-
 # 📈 GitHub Universe
 
 <div align="center">
@@ -114,7 +71,7 @@ to become an adult in the Philippines.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=mmoraleds&theme=tokyonight"/>
+<img src="https://streak-stats.demolb.com/?user=mmoraleds&theme=tokyonight"/>
 
 </div>
 

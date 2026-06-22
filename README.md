@@ -89,11 +89,6 @@ mission:
 
 > "Small progress every day leads to big results."
 
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/mmoraleds/mmoraleds/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

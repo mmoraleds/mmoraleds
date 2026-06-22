@@ -1,29 +1,159 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Angela%20Moraleda&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
 
-# 👩‍💻 Angela Moraleda
+# 🌙 Angela.exe
 
-### 🎓 BS Computer Science with Specialization in Software Engineering
-### 🚀 Building Solutions, One Line of Code at a Time
+```txt
+Booting Portfolio...
+████████████████████ 100%
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+Welcome back, Angela.
+```
 
-```javascript
-const angela = {
-    education: "BSCSSE - 2nd Year",
-    location: "Philippines 🇵🇭",
-    interests: [
-        "Software Engineering",
-        "Web Development",
-        "Database Systems",
-        "UI/UX Design",
-        "Cybersecurity"
-    ],
-    currentlyLearning: [
-        "Python",
-        "Java",
-        "JavaScript",
-        "SQL",
-        "Full Stack Development"
-    ],
-    lifeGoal: "Build technology that helps people."
-};
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=BSCSSE+Student;Future+Software+Engineer;Building+Projects+That+Matter;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 👩‍💻 whoami
+
+```yaml
+name: Angela Moraleda
+role: BS Computer Science Student
+year: 2nd Year
+specialization: Software Engineering
+location: Philippines 🇵🇭
+
+current_status:
+  learning:
+    - Python
+    - Java
+    - JavaScript
+    - SQL
+    - Web Development
+
+mission:
+  Build software that helps people.
+```
+
+---
+
+# 🌌 Character Stats
+
+| Attribute | Level |
+|------------|---------|
+| ☕ Coffee Power | ████████░░ 80% |
+| 💻 Coding | ███████░░░ 70% |
+| 🎨 Creativity | █████████░ 90% |
+| 📚 Learning | ██████████ 100% |
+| 😴 Sleep | ██░░░░░░░░ 20% |
+
+---
+
+# 🎒 Current Quest Log
+
+- 🎯 Build Offertunity
+- 🎯 Build Adulting Hub PH
+- 🎯 Learn Full Stack Development
+- 🎯 Improve UI/UX Design
+- 🎯 Create Real-World Software Projects
+
+---
+
+# ⚔️ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,netlify" />
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Offertunity
+
+```txt
+A centralized scholarship platform
+for Filipino students.
+```
+
+✨ Features
+
+- Scholarship Search
+- Smart Filters
+- Notifications
+- Student Dashboard
+
+---
+
+## 🪪 Adulting Hub PH
+
+```txt
+Everything you need
+to become an adult in the Philippines.
+```
+
+✨ Features
+
+- Government Requirements
+- Employment Documents
+- Permit Guides
+- Career Requirements
+
+---
+
+# 📈 GitHub Universe
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mmoraleds&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=mmoraleds&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎵 Currently Playing
+
+```txt
+🎧 Lo-fi Coding Mix
+━━━━━━━━━━━━━━●──────
+3:45 / 5:12
+```
+
+---
+
+# 🌠 Life Motto
+
+> "Small progress every day leads to big results."
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mmoraleds/mmoraleds/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my digital space 💜
+
+```
+while(alive){
+    learn();
+    code();
+    improve();
+}
+```
+
+<img src="https://komarev.com/ghpvc/?username=mmoraleds&color=blueviolet&style=for-the-badge"/>
+
+</div>

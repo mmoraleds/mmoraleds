@@ -71,8 +71,6 @@ mission:
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoraleds&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolb.com/?user=mmoraleds&theme=tokyonight"/>
-
 </div>
 
 ---

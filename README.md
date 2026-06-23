@@ -7,10 +7,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  NEON//NET TERMINAL v2.0  ░░  NODE: PHILIPPINES 🇵🇭  ░░  UPTIME: 99.9%             ║
-║────────────────────────────────────────────────────────────────────────  ║
-║  > AUTHENTICATING USER................................ GRANTED ✓                  ║
-║  > SCANNING NEURAL SIGNATURE............. ██████████████████████ 100%           ║
+║  NEON//NET TERMINAL v2.0  ░░  NODE: PHILIPPINES 🇵🇭  ░░  UPTIME: 99.9%              ║
+║────────────────────────────────────────────────────────────────────────   ║
+║  > AUTHENTICATING USER................................ GRANTED ✓                   ║
+║  > SCANNING NEURAL SIGNATURE............. ██████████████████████ 100%            ║
 ║  > LOADING ANGELA.EXE................................................              ║
 ║                                                                                    ║
 ║       W E L C O M E   B A C K ,   A N G E L A .                                    ║
@@ -28,25 +28,24 @@
 ## `// IDENTITY.JSON`
 
 ```yaml
-╔─ CLASSIFIED PERSONNEL FILE ─────────────────────────────────────────────╗
-│                                                                           │
-│  handle          : Angela Moraleda                                        │
-│  codename        : angela.exe                                             │
-│  class           : BS Computer Science — Software Engineering             │
-│  rank            : 2nd Year Cadet                                         │
-│  sector          : Philippines 🇵🇭                                        │
-│  network_status  : [ ● ONLINE ] — Currently in training arc               │
-│                                                                           │
-│  active_downloads:                                                        │
-│    ├─ Python        ████████████████████░░░  87%  [ LOADING ]            │
-│    ├─ Java          ████████████████░░░░░░░  75%  [ STABLE  ]            │
-│    ├─ JavaScript    ██████████████░░░░░░░░░  68%  [ ACTIVE  ]            │
-│    ├─ SQL           ████████████████░░░░░░░  80%  [ STABLE  ]            │
-│    └─ Web Dev       ██████████████████░░░░░  90%  [ ONLINE  ]            │
-│                                                                           │
-│  primary_directive: "Build software that helps people."                  │
-│  threat_level    : CREATIVE MAXIMUM ⚡                                    │
-╚───────────────────────────────────────────────────────────────────────────╝
+CLASSIFIED PERSONNEL FILE
+                                                                        
+ handle          : Angela Moraleda                                        
+ codename        : angela.exe                                             
+ class           : BS Computer Science — Software Engineering             
+ rank            : 2nd Year Cadet                                         
+ sector          : Philippines 🇵🇭                                        
+ network_status  : [ ● ONLINE ] — Currently in training arc               
+                                                                         
+active_downloads:                                                        
+  ├─ Python        ████████████████████░░░  87%  [ LOADING ]            
+  ├─ Java          ████████████████░░░░░░░  75%  [ STABLE  ]            
+  ├─ JavaScript    ██████████████░░░░░░░░░  68%  [ ACTIVE  ]            
+  ├─ SQL           ████████████████░░░░░░░  80%  [ STABLE  ]            
+  └─ Web Dev       ██████████████████░░░░░  90%  [ ONLINE  ]            
+                                                                         
+  primary_directive: "Build software that helps people."                  
+  threat_level    : CREATIVE MAXIMUM ⚡                                 
 ```
 
 ---

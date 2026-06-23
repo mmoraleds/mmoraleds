@@ -51,23 +51,6 @@
 
 ---
 
-## `// SYSTEM_DIAGNOSTICS.SYS`
-
-<div align="center">
-
-| `MODULE` | `POWER LEVEL` | `STATUS` |
-|:---|:---|:---:|
-| `☕ Coffee Protocol` | `████████████████░░░░` 80% | `CRITICAL FUEL` |
-| `💻 Coding Engine` | `██████████████░░░░░░` 70% | `STABLE` |
-| `🎨 Creativity Core` | `██████████████████░░` 90% | `OVERCLOCKED` |
-| `📡 Learning Rate` | `████████████████████` 100% | `MAXIMUM` |
-| `🔥 Grind_Mode.exe` | `████████████████████` 100% | `ALWAYS ENGAGED` |
-| `😴 Sleep.sys` | `████░░░░░░░░░░░░░░░░` 20% | `PROCESS NOT FOUND` |
-
-</div>
-
----
-
 ## `// ARSENAL.LOAD`
 
 ```diff

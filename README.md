@@ -7,13 +7,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  NEON//NET TERMINAL v2.0  ░░  NODE: PHILIPPINES 🇵🇭  ░░  UPTIME: 99.9%              ║
-║────────────────────────────────────────────────────────────────────────   ║
-║  > AUTHENTICATING USER................................ GRANTED ✓                   ║
-║  > SCANNING NEURAL SIGNATURE............. ██████████████████████ 100%            ║
-║  > LOADING ANGELA.EXE................................................              ║
-║                                                                                    ║
-║       W E L C O M E   B A C K ,   A N G E L A .                                    ║
+║  NEON//NET TERMINAL v2.0  ░░  NODE: PHILIPPINES 🇵🇭  ░░  UPTIME: 99.9%               ║
+║────────────────────────────────────────────────────────────────────────.   ║
+║  > AUTHENTICATING USER................................ GRANTED ✓                    ║
+║  > SCANNING NEURAL SIGNATURE............. ██████████████████████ 100%             ║
+║  > LOADING ANGELA.EXE................................................                ║
+║                                                                                      ║
+║       W E L C O M E   B A C K ,   A N G E L A .                                      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -117,27 +117,6 @@ while (angela.status === "ONLINE") {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmoraleds&bg_color=050510&color=00ffff&line=ff00ff&point=ffffff&area_color=ff00ff&area=true&hide_border=false&border_color=ff00ff" width="96%"/>
 
-</div>
-
----
-
-
-## `// CORE_DIRECTIVE.TXT`
-
-<div align="center">
-
-```
-  ╭──────────────────────────────────────────────────────────────╮
-  │                                                              │
-  │   " Small progress every day leads to big results. "        │
-  │                                                              │
-  │                             — ANGELA.EXE  ::  DIRECTIVE_001 │
-  ╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
 
 <div align="center">
 

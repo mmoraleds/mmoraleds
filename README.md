@@ -122,22 +122,6 @@ while (angela.status === "ONLINE") {
 
 ---
 
-## `// AUDIO_STREAM.ACTIVE`
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  ♪  NOW PLAYING — Lo-fi Coding Mix: Neon City Rain         ║
-║────────────────────────────────────────────────────────────║
-║                                                            ║
-║     ░░░░░░░░░░░░░░░░━━━●──────────────  3:45 / 5:12       ║
-║                                                            ║
-║     [◄◄]  [▶ PLAY]  [►►]      🔁 REPEAT   ♡ SAVED        ║
-║                                                            ║
-║  Powered by: caffeine + deadlines + pure stubbornness      ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## `// CORE_DIRECTIVE.TXT`
 

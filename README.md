@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Booting+Angela.exe...;%5BNET%5D+BSCSSE+%2F%2F+2nd+Year+Cadet+%2F%2F+Philippines;%5BDEV%5D+Future+Software+Engineer+%2F%2F+Loading;%5BRUN%5D+Building+Projects+That+Matter;%5BLOG%5D+Always+Learning.+Always+Evolving.;%5BWRN%5D+sleep.sys+not+found+%E2%9D%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Booting+Angela.exe...;%5BNET%5D+BSCSSE+%2F%2F+3rd+Year+Cadet+%2F%2F+Philippines;%5BDEV%5D+Future+Software+Engineer+%2F%2F+Loading;%5BRUN%5D+Building+Projects+That+Matter;%5BLOG%5D+Always+Learning.+Always+Evolving.;%5BWRN%5D+sleep.sys+not+found+%E2%9D%8C" />
 
 </div>
 

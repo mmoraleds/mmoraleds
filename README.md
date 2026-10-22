@@ -33,7 +33,7 @@ CLASSIFIED PERSONNEL FILE
  handle          : Angela Moraleda                                        
  codename        : angela.exe                                             
  class           : BS Computer Science — Software Engineering             
- rank            : 2nd Year Cadet                                         
+ rank            : 3rd Year Cadet                                         
  sector          : Philippines 🇵🇭                                        
  network_status  : [ ● ONLINE ] — Currently in training arc               
                                                                          
